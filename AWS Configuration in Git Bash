@@ -1,0 +1,8 @@
+Enter aws configure
+
+aws@aws MINGW64 ~ (master)
+$ aws configure
+AWS Access Key ID [****************DDFQ]:
+AWS Secret Access Key [****************48Nt]:
+Default region name [us-east-1]:
+Default output format [none]:
